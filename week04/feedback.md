@@ -19,6 +19,6 @@ _Was your code readable, efficient, and in line with what we learned in class?_
 * Code written into functions where appropriate?
   * **Your functions are well written and nicely formatted.**
 * Appropriate comments with your code?
-  * **It's helpful to include code comments. Nice job on your code comments on 20.1.**
+  * **It's helpful to include code comments.**
 * Generally easy to follow and undersand?
   * **Your code is easy to follow and understand.**
