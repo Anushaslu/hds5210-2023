@@ -1,7 +1,7 @@
 # Midterm Feedback
 The midterm feedback will be very similar to what you receive on a weekly basis for the homework, but more specific for each problem in this case.
 
-## Final Score: 34/50
+## Final Score: 33/50
 
 
 ### Step 1: Priest Score Calculation
@@ -9,7 +9,7 @@ The midterm feedback will be very similar to what you receive on a weekly basis 
 * **5pts** (-5) The format of your docstring resembles ChatGPT, not Professor Boal's examples.
 
 ### Step 2: Find a Hospital
-* **5pts** - Your code correctly fetched the correct hospital given the inputs using requests. You should probably put your code inside a try except block.
+* **5pts** - (-1) Your code correctly fetched the correct hospital given the inputs using requests. You need to return None if anything fails.
 * **2pts** (-0.5) You had a docstring that described what the function was for; however, you did not include the expected input and output types.
 * **3pts** - You had at least three doctests in your docstring
 
