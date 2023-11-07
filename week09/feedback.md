@@ -4,7 +4,7 @@ Each week, you'll receive a feedback file in GitHub showing a final grade and an
 This assignment was focused on the use of Python and Pandas to load and visualize data, giving you something to interpret and help you understand the data. You did not nee to encapsulate your code in functions or provide docstrings/doctests in your functions.
 
 
-## Final Score: 11/10
+## Final Score: 10/10
 * **(+1) Extra credit for early submission**
 
 
@@ -15,7 +15,7 @@ This assignment was focused on the use of Python and Pandas to load and visualiz
 * 1pt - 41.4 - Nice job.
 
 ## Second Half: 41.5
-* 2pts - Nice job on your first visualization
+* 2pts **(-1)** Where is this data from? Where would I go to find this data? Your first visualization is good.
 * 1pt - Good observations.
 * 2pt - Nice job on your second visualization
 * 1pt - Good observations.
